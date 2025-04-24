@@ -14,9 +14,9 @@ __pycache__/
 *.pyo
 
 # Evita commitar scripts automatizados do Docker local
-/build.sh
-/push.sh
-/run.sh
+#/build.sh
+#/push.sh
+#/run.sh
 
 # Ignora todos os scripts locais
 *.yml
