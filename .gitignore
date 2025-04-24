@@ -12,3 +12,11 @@ Thumbs.db
 __pycache__/
 *.pyc
 *.pyo
+
+# Evita commitar scripts automatizados do Docker local
+/build.sh
+/push.sh
+/run.sh
+
+# Ignora todos os scripts locais
+#*.sh
