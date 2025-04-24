@@ -1,0 +1,14 @@
+# PyCharm
+.idea/
+*.iml
+
+# Mac/Linux
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Outros
+__pycache__/
+*.pyc
+*.pyo
