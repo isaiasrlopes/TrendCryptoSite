@@ -19,4 +19,6 @@ __pycache__/
 /run.sh
 
 # Ignora todos os scripts locais
-#*.sh
+*.yml
+*.sh
+Dockerfile
